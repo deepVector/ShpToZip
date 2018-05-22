@@ -16,10 +16,11 @@ The script was developed for **Geospatial Data Analysis**: UBC course [external 
 
 <!-- /TOC -->
 ## Software framework
-*   **Required software** (version used during development)
- *   **Python** (v. 2.7) - Python Programming Language [(external link)](https://www.python.org/)
-*   **Optional software** (version used during development)
- *   **Git** (v. 2.14.2) - Version history [(external link)](https://git-scm.com/)
+**Required software** (version used during development)
+*   **Python** (v. 2.7) - Python Programming Language [(external link)](https://www.python.org/)
+
+**Optional software** (version used during development)
+*   **Git** (v. 2.14.2) - Version history [(external link)](https://git-scm.com/)
 
 ## Version control
 Version (date): **01.02** (15 OCT 2017)
@@ -39,14 +40,15 @@ To execute as a module, copy *ShpToZip.py* (along with associated files *ShpToZi
     ShpToZip.ShpToZipInDir(dirOut)
 
 ## Contributors
-*   Witold Ciolkiewicz - Author
-* Code elements adapted from:
+deepVector - Author
+
+Code elements adapted from:
  * mafic9 *et al.* (2015)
  * Esri (2017)
  * Greer (2017)
 
 ## Licence
-This script is licensed under the terms of the MIT Licence (see [*LICENCE.md*](LICENCE.md)).
+This script is licensed under the terms of the MIT Licence (see [*LICENSE.md*](LICENSE.md)).
 
 ## References
 Esri, 2017, Zip (compress) Python script, online: https://desktop.arcgis.com/en/arcmap/latest/analyze/sharing-workflows/h-zip-python-script.htm [accessed 14 October 2017].
